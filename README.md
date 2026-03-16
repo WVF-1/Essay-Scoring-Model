@@ -4,7 +4,7 @@ A light AI model to grade and assess student essays as well as a full exploratio
 ---
 
 ## Data
-https://www.kaggle.com/datasets/lburleigh/asap-2-0
 
+You may view the dataset here: [Kaggle Dataset](https://www.kaggle.com/datasets/lburleigh/asap-2-0).
 
 ---
