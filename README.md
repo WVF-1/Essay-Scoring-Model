@@ -160,3 +160,11 @@ While automated grading can assist educators, this project emphasizes the import
 
 ---
 
+Key Results
+
+• AI predicted essay scores within ~1 point of human graders
+• Essay length and vocabulary richness were the strongest predictors
+• Short essays and extreme scores produced the largest errors
+• Semantic clusters revealed distinct writing styles among essays
+
+---
